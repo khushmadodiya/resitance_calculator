@@ -682,7 +682,7 @@ class _bodyState extends State<body> {
                             setState(() {
                               if(c==0){
                                 a=map['black'];
-                                result="Enter color of second band";
+                                result="Enter colors of second band";
                                 c+=1;
                               }
                               else if(c==1){
